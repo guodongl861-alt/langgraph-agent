@@ -1,10 +1,10 @@
 import os
-os.environ["OPENAI_API_KEY"] = "sk-qX4v4ERHcUAgZ48D6761Ae1a91194bB9BdD0561b502e6688"
+os.environ["OPENAI_API_KEY"] = "sk-"
 os.environ["OPENAI_API_BASE"] = "https://openkey.cloud/v1"
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"] = "default"
-os.environ["LANGSMITH_API_KEY"] = "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"
+os.environ["LANGSMITH_API_KEY"] = ""
 import nest_asyncio
 # This is just required for running async playwright in a Jupyter notebook
 nest_asyncio.apply()
