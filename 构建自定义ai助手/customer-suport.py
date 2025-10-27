@@ -1,8 +1,8 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-qX4v4ERHcUAgZ48D6761Ae1a91194bB9BdD0561b502e6688"
+os.environ["OPENAI_API_KEY"] = "sk-"
 os.environ["OPENAI_API_BASE"] = "https://openkey.cloud/v1"
-os.environ["TAVILY_API_KEY"] = "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"
+os.environ["TAVILY_API_KEY"] = "tvly-dev-"
 
 import os
 import shutil
